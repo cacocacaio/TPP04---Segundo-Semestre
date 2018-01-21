@@ -12,9 +12,11 @@
 #include "main.h"
 #include "gerar_conjunto.c"
 #include "ordenar.c"
-#include "uniao_helper.h"
-#include "inter_sep.h"
-#include "cmd_mostra.h"
+#include "uniao.c"
+#include "inter_sep.c"
+#include "subtra_re.c"
+#include "cmd_mostra.c"
+#include "info.c"
 
 
 

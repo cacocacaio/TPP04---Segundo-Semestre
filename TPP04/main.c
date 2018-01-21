@@ -10,7 +10,11 @@
 #include "main.h"
 #include "gerar_conjunto.c"
 #include "ordenar.c"
-#include "menu_ui.c"
+#include "uniao.c"
+#include "inter_sep.c"
+#include "subtra_re.c"
+#include "cmd_mostra.c"
+#include "info.c"
 
 int main(int argc, char *argv[])
 {
