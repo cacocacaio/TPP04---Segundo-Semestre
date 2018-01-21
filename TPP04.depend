@@ -1,0 +1,418 @@
+# depslib dependency file v1.0
+1516328630 source:c:\users\juan\desktop\tpp04 - segundo semestre\tpp04\main.c
+	<stdlib.h>
+	<stdio.h>
+	<locale.h>
+	<time.h>
+	<ctype.h>
+	<string.h>
+	"main.h"
+	"gerar_conjunto.c"
+	"ordenar.c"
+	"menu_ui.c"
+
+1516336486 c:\users\juan\desktop\tpp04 - segundo semestre\tpp04\gerar_conjunto.h
+	"main.h"
+	<time.h>
+
+1516336486 c:\users\juan\desktop\tpp04 - segundo semestre\tpp04\main.h
+	<time.h>
+
+1516050330 source:c:\users\caio\desktop\tpp04 - segundo semestre\tpp04\main.c
+	<stdlib.h>
+	<stdio.h>
+	<locale.h>
+	<time.h>
+	<ctype.h>
+	<string.h>
+	"main.h"
+	"gerar_conjunto.c"
+	"ordenar.c"
+	"menu_ui.c"
+
+1516037754 c:\users\caio\desktop\tpp04 - segundo semestre\tpp04\main.h
+	<time.h>
+
+1515982990 c:\users\caio\desktop\tpp04 - segundo semestre\tpp04\gerar_conjunto.h
+	"main.h"
+	<time.h>
+
+1516050042 c:\users\caio\desktop\tpp04 - segundo semestre\tpp04\ordenar.h
+
+1516038228 c:\users\caio\desktop\tpp04 - segundo semestre\tpp04\gerar_conjunto.c
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	"gerar_conjunto.h"
+	"main.h"
+
+1516040993 c:\users\caio\desktop\tpp04 - segundo semestre\tpp04\ordenar.c
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	"ordenar.h"
+
+1516051404 c:\users\caio\desktop\tpp04 - segundo semestre\tpp04\menu_ui.c
+	<stdlib.h>
+	<stdio.h>
+	<locale.h>
+	<time.h>
+	<ctype.h>
+	<string.h>
+	"main.h"
+	"menu_ui.h"
+
+1516050304 c:\users\caio\desktop\tpp04 - segundo semestre\tpp04\menu_ui.h
+	"main.h"
+
+1516328630 source:n:\tpp04 - segundo semestre\tpp04\main.c
+	<stdlib.h>
+	<stdio.h>
+	<locale.h>
+	<time.h>
+	<ctype.h>
+	<string.h>
+	"main.h"
+	"gerar_conjunto.c"
+	"ordenar.c"
+	"menu_ui.c"
+
+1516327158 n:\tpp04 - segundo semestre\tpp04\main.h
+	<time.h>
+
+1516328736 n:\tpp04 - segundo semestre\tpp04\gerar_conjunto.c
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	"gerar_conjunto.h"
+	"main.h"
+
+1516327776 n:\tpp04 - segundo semestre\tpp04\gerar_conjunto.h
+	"main.h"
+	<time.h>
+
+1516040994 n:\tpp04 - segundo semestre\tpp04\ordenar.c
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	"ordenar.h"
+
+1516050044 n:\tpp04 - segundo semestre\tpp04\ordenar.h
+
+1516327960 n:\tpp04 - segundo semestre\tpp04\menu_ui.c
+	<stdlib.h>
+	<stdio.h>
+	<locale.h>
+	<time.h>
+	<ctype.h>
+	<string.h>
+	"main.h"
+	"menu_ui.h"
+
+1516327960 n:\tpp04 - segundo semestre\tpp04\menu_ui.h
+	"main.h"
+
+1516336643 c:\users\juan\desktop\tpp04 - segundo semestre\tpp04\gerar_conjunto.c
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	"gerar_conjunto.h"
+	"main.h"
+
+1516040994 c:\users\juan\desktop\tpp04 - segundo semestre\tpp04\ordenar.c
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	"ordenar.h"
+
+1516050044 c:\users\juan\desktop\tpp04 - segundo semestre\tpp04\ordenar.h
+
+1516336710 c:\users\juan\desktop\tpp04 - segundo semestre\tpp04\menu_ui.c
+	<stdlib.h>
+	<stdio.h>
+	<locale.h>
+	<time.h>
+	<ctype.h>
+	<string.h>
+	"main.h"
+	"menu_ui.h"
+
+1516327960 c:\users\juan\desktop\tpp04 - segundo semestre\tpp04\menu_ui.h
+	"main.h"
+
+1516403664 source:c:\users\caio\desktop\trabalhos-da-faculdade-master\main.c
+	<stdlib.h>
+	<stdio.h>
+	<locale.h>
+	<time.h>
+	<ctype.h>
+	<string.h>
+	"main.h"
+	"gerar_conjunto.c"
+	"ordenar.c"
+	"menu_ui.c"
+
+1516337734 c:\users\caio\desktop\trabalhos-da-faculdade-master\main.h
+	<time.h>
+
+1516403954 c:\users\caio\desktop\trabalhos-da-faculdade-master\gerar_conjunto.c
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	"gerar_conjunto.h"
+	"main.h"
+
+1516403394 c:\users\caio\desktop\trabalhos-da-faculdade-master\gerar_conjunto.h
+	"main.h"
+	<time.h>
+
+1516399171 c:\users\caio\desktop\trabalhos-da-faculdade-master\ordenar.c
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	"ordenar.h"
+
+1516337734 c:\users\caio\desktop\trabalhos-da-faculdade-master\ordenar.h
+
+1516337734 c:\users\caio\desktop\trabalhos-da-faculdade-master\menu_ui.c
+	<stdlib.h>
+	<stdio.h>
+	<locale.h>
+	<time.h>
+	<ctype.h>
+	<string.h>
+	"main.h"
+	"menu_ui.h"
+
+1516337734 c:\users\caio\desktop\trabalhos-da-faculdade-master\menu_ui.h
+	"main.h"
+
+1516574394 source:c:\users\juan\desktop\trabalhos-da-faculdade-master\trabalhos-da-faculdade-master\main.c
+	<stdlib.h>
+	<stdio.h>
+	<locale.h>
+	<time.h>
+	<ctype.h>
+	<string.h>
+	"main.h"
+	"gerar_conjunto.c"
+	"ordenar.c"
+	"uniao_helper.h"
+	"inter_sep.h"
+	"cmd_mostra.h"
+
+1516553170 c:\users\juan\desktop\trabalhos-da-faculdade-master\trabalhos-da-faculdade-master\main.h
+	<stdlib.h>
+	<stdio.h>
+	<locale.h>
+	<time.h>
+	<ctype.h>
+	<string.h>
+
+1516574394 c:\users\juan\desktop\trabalhos-da-faculdade-master\trabalhos-da-faculdade-master\gerar_conjunto.c
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	"gerar_conjunto.h"
+	"ordenar.h"
+	"main.h"
+
+1516574786 c:\users\juan\desktop\trabalhos-da-faculdade-master\trabalhos-da-faculdade-master\gerar_conjunto.h
+	"main.h"
+	<time.h>
+
+1516549822 c:\users\juan\desktop\trabalhos-da-faculdade-master\trabalhos-da-faculdade-master\ordenar.c
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	"ordenar.h"
+
+1516574786 c:\users\juan\desktop\trabalhos-da-faculdade-master\trabalhos-da-faculdade-master\ordenar.h
+
+1516337734 c:\users\juan\desktop\trabalhos-da-faculdade-master\trabalhos-da-faculdade-master\menu_ui.c
+	<stdlib.h>
+	<stdio.h>
+	<locale.h>
+	<time.h>
+	<ctype.h>
+	<string.h>
+	"main.h"
+	"menu_ui.h"
+
+1516337734 c:\users\juan\desktop\trabalhos-da-faculdade-master\trabalhos-da-faculdade-master\menu_ui.h
+	"main.h"
+
+1516574394 source:c:\users\juan\desktop\trabalhos-da-faculdade-master\trabalhos-da-faculdade-master\uniao.c
+	<stdlib.h>
+	<stdio.h>
+	<locale.h>
+	<time.h>
+	<ctype.h>
+	<string.h>
+	"uniao_helper.h"
+
+1516574786 c:\users\juan\desktop\trabalhos-da-faculdade-master\trabalhos-da-faculdade-master\uniao_helper.h
+
+1516550056 c:\users\juan\desktop\trabalhos-da-faculdade-master\trabalhos-da-faculdade-master\uniao.c
+	<stdlib.h>
+	<stdio.h>
+	<locale.h>
+	<time.h>
+	<ctype.h>
+	<string.h>
+	"uniao_helper.h"
+
+1516553386 c:\users\juan\desktop\trabalhos-da-faculdade-master\trabalhos-da-faculdade-master\inter_sep.c
+	"main.h"
+	"inter_sep.h"
+
+1516574786 c:\users\juan\desktop\trabalhos-da-faculdade-master\trabalhos-da-faculdade-master\inter_sep.h
+
+1516574394 source:c:\users\juan\desktop\trabalhos-da-faculdade-master\trabalhos-da-faculdade-master\inter_sep.c
+	"main.h"
+	"inter_sep.h"
+
+1516574394 source:c:\users\juan\desktop\trabalhos-da-faculdade-master\trabalhos-da-faculdade-master\subtra_re.c
+	"main.h"
+	"subtra_re.h"
+
+1516574786 c:\users\juan\desktop\trabalhos-da-faculdade-master\trabalhos-da-faculdade-master\subtra_re.h
+
+1516574786 c:\users\juan\desktop\trabalhos-da-faculdade-master\trabalhos-da-faculdade-master\cmd_mostra.h
+
+1516574394 source:c:\users\juan\desktop\trabalhos-da-faculdade-master\trabalhos-da-faculdade-master\cmd_mostra.c
+	"main.h"
+	"cmd_mostra.h"
+
+1516574735 source:c:\users\juan\desktop\trabalhos-da-faculdade-master\trabalhos-da-faculdade-master\info.c
+	"main.h"
+	"info_helper.h"
+
+1516574786 c:\users\juan\desktop\trabalhos-da-faculdade-master\trabalhos-da-faculdade-master\info_helper.h
+
+1516574394 source:c:\users\juan\desktop\tpp04\cmd_mostra.c
+	"main.h"
+	"cmd_mostra.h"
+
+1516553170 c:\users\juan\desktop\tpp04\main.h
+	<stdlib.h>
+	<stdio.h>
+	<locale.h>
+	<time.h>
+	<ctype.h>
+	<string.h>
+
+1516574786 c:\users\juan\desktop\tpp04\cmd_mostra.h
+
+1516574735 source:c:\users\juan\desktop\tpp04\info.c
+	"main.h"
+	"info_helper.h"
+
+1516574786 c:\users\juan\desktop\tpp04\info_helper.h
+
+1516574394 source:c:\users\juan\desktop\tpp04\inter_sep.c
+	"main.h"
+	"inter_sep.h"
+
+1516574786 c:\users\juan\desktop\tpp04\inter_sep.h
+
+1516574394 source:c:\users\juan\desktop\tpp04\main.c
+	<stdlib.h>
+	<stdio.h>
+	<locale.h>
+	<time.h>
+	<ctype.h>
+	<string.h>
+	"main.h"
+	"gerar_conjunto.c"
+	"ordenar.c"
+	"uniao_helper.h"
+	"inter_sep.h"
+	"cmd_mostra.h"
+
+1516574394 c:\users\juan\desktop\tpp04\gerar_conjunto.c
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	"gerar_conjunto.h"
+	"ordenar.h"
+	"main.h"
+
+1516574786 c:\users\juan\desktop\tpp04\gerar_conjunto.h
+	"main.h"
+	<time.h>
+
+1516574786 c:\users\juan\desktop\tpp04\ordenar.h
+
+1516549822 c:\users\juan\desktop\tpp04\ordenar.c
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	"ordenar.h"
+
+1516574786 c:\users\juan\desktop\tpp04\uniao_helper.h
+
+1516574394 source:c:\users\juan\desktop\tpp04\subtra_re.c
+	"main.h"
+	"subtra_re.h"
+
+1516574786 c:\users\juan\desktop\tpp04\subtra_re.h
+
+1516574394 source:c:\users\juan\desktop\tpp04\uniao.c
+	<stdlib.h>
+	<stdio.h>
+	<locale.h>
+	<time.h>
+	<ctype.h>
+	<string.h>
+	"uniao_helper.h"
+
+1516574394 source:c:\users\juan\desktop\tpp04 - segundo semestre\cmd_mostra.c
+	"main.h"
+	"cmd_mostra.h"
+
+1516553170 c:\users\juan\desktop\tpp04 - segundo semestre\main.h
+	<stdlib.h>
+	<stdio.h>
+	<locale.h>
+	<time.h>
+	<ctype.h>
+	<string.h>
+
+1516574786 c:\users\juan\desktop\tpp04 - segundo semestre\cmd_mostra.h
+
+1516574735 source:c:\users\juan\desktop\tpp04 - segundo semestre\info.c
+	"main.h"
+	"info_helper.h"
+
+1516574786 c:\users\juan\desktop\tpp04 - segundo semestre\info_helper.h
+
+1516574394 source:c:\users\juan\desktop\tpp04 - segundo semestre\inter_sep.c
+	"main.h"
+	"inter_sep.h"
+
+1516574786 c:\users\juan\desktop\tpp04 - segundo semestre\inter_sep.h
+
+1516574394 source:c:\users\juan\desktop\tpp04 - segundo semestre\subtra_re.c
+	"main.h"
+	"subtra_re.h"
+
+1516574786 c:\users\juan\desktop\tpp04 - segundo semestre\subtra_re.h
+
+1516574394 source:c:\users\juan\desktop\tpp04 - segundo semestre\uniao.c
+	<stdlib.h>
+	<stdio.h>
+	<locale.h>
+	<time.h>
+	<ctype.h>
+	<string.h>
+	"uniao_helper.h"
+
+1516574786 c:\users\juan\desktop\tpp04 - segundo semestre\uniao_helper.h
+
